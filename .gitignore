@@ -1,0 +1,36 @@
+# Pythonバイトコード
+__pycache__/
+*.py[cod]
+*$py.class
+
+# 仮想環境（venv）
+venv/
+env/
+ENV/
+.venv/
+
+# エディタやIDEの設定
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Jupyter Notebookの出力
+.ipynb_checkpoints/
+
+# ログ・出力ファイル
+*.log
+*.out
+
+# 環境変数ファイル
+.env
+.env.*
+
+# キャッシュファイル
+*.cache
+*.pkl
+*.joblib
+
+# OSごとの不要ファイル
+.DS_Store
+Thumbs.db
